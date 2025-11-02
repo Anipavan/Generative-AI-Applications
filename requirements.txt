@@ -1,0 +1,10 @@
+langchain
+langchain_community
+faiss-cpu
+streamlit
+ sentence-transformers
+ langchain_openai
+ openapi
+ PyMuPDF
+ reportlab
+ python-dotenv
