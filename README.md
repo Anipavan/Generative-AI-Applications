@@ -55,6 +55,14 @@ pip install -r requirements.txt
 1. **Create a `.env` file in your project directory**
 2. **Add your OpenAI API key:**
 
+    ```
+    OPENAI_API_KEY=sk-xxxxxxxxxxxxxxxxxxxx
+    ```
+
+*Never commit your `.env` or secrets!*
+
+---
+
 ## 🚀 Launch the App
 
 streamlit run app.py
@@ -116,11 +124,14 @@ MIT License. See [LICENSE](LICENSE) for details.
 
 ---
 
-## 🤖 Author
+## 📸 Screenshot (Optional)
 
-Made by [Anipavan](https://github.com/Anipavan)
+![App Screenshot](link-to-your-screenshot.png)
+*Replace the above line with your actual screenshot after launching the app.*
 
 ---
 
-**Empower your job hunt with AI!**  
-**Get ATS-aligned and stand out from the crowd 🚀**
+## 🤖 Author
+
+ Anirudh
+
