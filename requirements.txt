@@ -1,10 +1,10 @@
-langchain
-langchain_community
-faiss-cpu
 streamlit
- sentence-transformers
- langchain_openai
- openapi
- PyMuPDF
- reportlab
- python-dotenv
+PyPDF2
+langchain
+langchain-community
+langchain-openai
+faiss-cpu
+scikit-learn
+openai
+reportlab
+python-dotenv
