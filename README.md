@@ -59,9 +59,6 @@ pip install -r requirements.txt
     OPENAI_API_KEY=sk-xxxxxxxxxxxxxxxxxxxx
     ```
 
-*Never commit your `.env` or secrets!*
-
----
 
 ## 🚀 Launch the App
 
@@ -81,23 +78,6 @@ streamlit run app.py
 
 ---
 
-## 🙈 Secure Your Keys
-
-- `.env` is **in .gitignore** and never shared
-- For Streamlit Cloud deployment, use the app's built-in **Secrets Manager**
-
----
-
-## 🌐 Deployment
-
-Deploy easily using [Streamlit Community Cloud](https://share.streamlit.io/):
-
-1. Push your code to GitHub
-2. Create a new Streamlit Cloud app
-3. Add your OpenAI secret via Settings → Secrets
-4. Launch and share your app instantly!
-
----
 
 ## 💬 FAQ
 
@@ -118,20 +98,7 @@ Pull requests, bug reports, and feature suggestions are welcome!
 
 ---
 
-## 📄 License
-
-MIT License. See [LICENSE](LICENSE) for details.
-
----
-
-## 📸 Screenshot (Optional)
-
-![App Screenshot](link-to-your-screenshot.png)
-*Replace the above line with your actual screenshot after launching the app.*
-
----
 
 ## 🤖 Author
-
  Anirudh
 
